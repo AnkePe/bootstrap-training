@@ -1,5 +1,15 @@
-.col-sm{
+.col-sm,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-8,
+.col-md-12
+
+{
     background-color: aquamarine;
     border: 1px solid gray;
     border-radius: 3px;
 }
+
